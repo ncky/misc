@@ -188,7 +188,7 @@
 **Upcoming Ghost Mode Enhancements (Version 1.13 and 2.01)**  
 - **Version 1.13 (March Update):**  
   - The first phase of Ghost Versus allows you to select strategies in the lounge and watch your ghost fight another.  
-- **Version 2.01 (May 2019 Update):**  
+- **Version 2.01 (May 2025 Update):**  
   - A new “Tekken Ghost Showdown” mode appears at the Tekken Fight Lounge entrance.  
   - You can spar with your ghost, reset AI data, and toggle AI learning settings.  
   - Real-time instructions (voice or text) let you coach your ghost, praising or discouraging certain moves so the AI adjusts.
