@@ -38,12 +38,12 @@
 **Chip Damage Reduction**  
 - The overall chip damage during the Heat state has been slightly reduced.  
 - Additional chip damage incurred when using Heat Dash (especially when combined with guarding) has been adjusted.  
-  - In Season 1, Heat Dash damage was 19; in Season 2, it’s set at 15.  
-  - When opponents are in a register state, chip damage has been adjusted from 12 down to 4.  
+  - In Season 1, This example of Heat Dash damage was 19; in Season 2, it’s now 15.  
+  - When opponents are in a rage state, chip damage has been adjusted from 12 down to 4.  
 - The goal is to prevent overly one-sided matchups and allow for longer, more strategic engagements.
 
 **Power Crush and Offensive Techniques**  
-- Previously, techniques mixing Power Crush and Heat activation (used by characters such as Nina and Asena) enabled strong counterattacks.  
+- Previously, techniques mixing Power Crush and Heat activation (used by characters such as Nina and Azucena) enabled strong counterattacks.  
 - For Season 2, these mixed techniques will be reworked so that only the Power Crush aspect remains active, potentially reducing the effectiveness of certain defensive/offensive moves.
 
 ---
@@ -225,8 +225,3 @@
 - Even if your rank dips before the update, your highest Season 1 rank will determine your Season 2 start. Keep playing!  
 - In 2025, major events begin on May 9th in Japan, running until around November. Master/Challenger Events are being finalized. We aim to bolster global presence while focusing on Japan.  
 - Registration for events like the Waltz Restoration and dojo tournaments continues via the E-portal, using the new attendance-based system.
-
-**Closing Remarks**  
-- We’ll end today’s session with an Anna trailer.  
-- Thank you very much for joining us today.  
-- See you in late March for our next broadcast, and thank you again for your continued support.
